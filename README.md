@@ -2,7 +2,28 @@
 HW#1 - GIT & GitHub ( Exploring Workflow Concepts )
 
 ## *Chanya Chumdee TM#1*
+My name is Chanya Chumdee [ Yaya ], I'm from Thailand. I'm interested in web design, this is a link to my [personal site](https://ychanya.github.io/Personal-site/).
 
+![Pepe Frog](images/pepe.jpg)
+
+### ***My hobbies are***
+1. Travelling
+2. Take a picture
+3. Go to the park
+4. Music
+5. Lego collection
+
+### ***My skills***
+- HTML
+- CSS
+- Management
+
+### ***What I like***
+- Natural lover
+- Horror movies
+- A dog person
+- Bubble tea
+- Spicy food
 
 ## *Juliana Gambuzza TM#2*
 
@@ -24,7 +45,7 @@ and  I have 23 years old*
 3. Watch movies 
 4. Play board games with my family and friends
 
-### ***My Skills***
+### ***My skills***
 - Creativity 
 - Problem solving 
 - Adaptability 
